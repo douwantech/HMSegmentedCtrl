@@ -1,0 +1,16 @@
+PODS:
+  - HMSegmentedCtrl (0.1.0)
+
+DEPENDENCIES:
+  - HMSegmentedCtrl (from `../`)
+
+EXTERNAL SOURCES:
+  HMSegmentedCtrl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HMSegmentedCtrl: 93b33f87eee1c5c5a1d45ae52c94f993c420959c
+
+PODFILE CHECKSUM: e86b7c62a7917897ed5ecb2684736eefbdfc90de
+
+COCOAPODS: 1.11.3
